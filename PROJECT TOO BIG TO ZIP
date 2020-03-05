@@ -1,0 +1,11 @@
+Apparently >25mb is too big
+Looks like we'll possibly need to look into LFS if we want to keep zipping the project and uploading it here
+
+Anyway here's a list of changes as of today
+
+Since last backup:
+ - Basic Ghost enemy
+- Pixel Perfect camera (URP from latest Unity Version)
+- Material with pixel snapping enabled on ALL tilemaps
+- Title screen with music, button to load first area and animations
+- Directional level loading and player repositioning based on where they entered from
